@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#gato {
+    width: 300px; /* Ajusta el tamaño según sea necesario */
+}
+
+#picame {
+    margin-top: 20px;
+    padding: 10px;
+    font-size: 16px;
+}
